@@ -73,6 +73,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 * Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
 * This is what will be presented to the officials, so be sure to make it professional, logical, and visually appealing. 
 
+
 ## Submission 
 
 Your final submission should include:
@@ -83,6 +84,9 @@ Your final submission should include:
   * 1 City Official Map
   * 1 Story 
 * A text or markdown file with your analysis on the phenomenons you uncovered from the data.
+
+[Citi Bike Data Ridership Growth](Images/3. RidershipGrowth.png)
+[Citi Bike Data Top 10 Start Stations](Images/6. StartStations.png)
 
 - - -
 
