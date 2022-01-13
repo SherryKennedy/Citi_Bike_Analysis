@@ -85,8 +85,12 @@ Your final submission should include:
   * 1 Story 
 * A text or markdown file with your analysis on the phenomenons you uncovered from the data.
 
-[Citi Bike Data Ridership Growth](Images/3. RidershipGrowth.png)
-[Citi Bike Data Top 10 Start Stations](Images/6. StartStations.png)
+# This Submission includes the following and additional analytics: 
+## Ridership Growth
+![Citi-Bikes Data Ridership Growth](Images/RidershipGrowth.jpg)
+## Start Stations
+![Citi-Bikes Data Top 10 Start Stations](Images/StartStations.jpg)
+
 
 - - -
 
