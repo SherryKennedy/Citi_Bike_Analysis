@@ -85,11 +85,16 @@ Your final submission should include:
   * 1 Story 
 * A text or markdown file with your analysis on the phenomenons you uncovered from the data.
 
-# This Submission includes the following and additional analytics: 
+# This Submission includes the following:
 ## Ridership Growth
 ![Citi-Bikes Data Ridership Growth](Images/RidershipGrowth.jpg)
 ## Start Stations
 ![Citi-Bikes Data Top 10 Start Stations](Images/StartStations.jpg)
+
+## Again review full analytics:
+[Citi Bike Analytics Tableau](https://public.tableau.com/app/profile/sherry.kennedy/viz/CitiBikeAnalyticsFebToAug2020/CitiBikeAnalyticsFebAug2020)
+
+[Citi Bike Analytics PDF](https://github.com/SherryKennedy/Citi_Bike_Analysis/tree/main/Results%20PDF)
 
 
 - - -
